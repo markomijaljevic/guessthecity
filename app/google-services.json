@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "380708773469",
+    "firebase_url": "https://guessthecityproject.firebaseio.com",
+    "project_id": "guessthecityproject",
+    "storage_bucket": "guessthecityproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380708773469:android:cd26125db2e006bc",
+        "android_client_info": {
+          "package_name": "com.markomijaljevic.guessthecity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380708773469-p93pvbch7up54smact5p2tgm7f7m52nn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.markomijaljevic.guessthecity",
+            "certificate_hash": "abe2289c0ea4a8577a05aa2895eb076de5921d2f"
+          }
+        },
+        {
+          "client_id": "380708773469-ef9dhludpe4f061abd9tg1lpcq358r21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLDzj_7FM9ZCa2p0QUvTzK4XU-3BTy9dk"
+        },
+        {
+          "current_key": "AIzaSyBCt4Y9_ftMaEjZxA4K45DqVUbFbpuqY2M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380708773469-ef9dhludpe4f061abd9tg1lpcq358r21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
